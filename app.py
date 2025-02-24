@@ -8,7 +8,7 @@ import io
 
 # Download the trained model
 file_id = "1rf0ixYg3vvgxh03vmx4JagRP14y7jSua"
-url = "https://drive.google.com/uc?id=" + file_id
+url = "https://drive.google.com/file/d/1rf0ixYg3vvgxh03vmx4JagRP14y7jSua/view?usp=sharing"
 model_path = "trained_plant_disase_model.keras"
 
 if not os.path.exists(model_path):
